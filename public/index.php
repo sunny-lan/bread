@@ -6,6 +6,6 @@
  * Time: 9:26 PM
  */
 
-require_once(__DIR__ . '/../vendor');
+require_once(__DIR__ . '/../vendor/autoload.php');
 
 echo 'hello';
