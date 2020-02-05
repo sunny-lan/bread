@@ -1,9 +1,0 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: sunny
- * Date: 2020-02-04
- * Time: 9:26 PM
- */
-
-echo 'hello';
