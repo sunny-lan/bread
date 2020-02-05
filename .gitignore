@@ -1,3 +1,4 @@
 vendor/
 .env
 lib/development.ini
+.idea
