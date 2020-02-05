@@ -7,10 +7,12 @@
 
 require_once(__DIR__ . '/../vendor/autoload.php');
 
+
+$db = \bread\Database::connect();
+
 $page = new \bread\Page([
-    'body' => 'hello',
+    'body' => print_r($db),
     'title' => 'bread',
 ]);
-
 echo $page->render();
 

@@ -1,6 +1,7 @@
 {
   "require": {
-    "php": "^7.2.0"
+    "php": "^7.2.0",
+    "nilportugues/sql-query-builder": "^1.7"
   },
   "autoload": {
     "psr-4": {"bread\\": "lib/"}
